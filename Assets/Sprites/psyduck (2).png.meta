@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      psyduck (2)_0: -6033156459428584809
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

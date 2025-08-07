@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      green hill zone_0: -4157656398802231023
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
